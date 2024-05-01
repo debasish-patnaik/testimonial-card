@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project is a solution to the [Testimonial Card](https://www.greatfrontend.com/projects/challenges/testimonial-card) challenge on [GreatFronEnd Projects](https://www.greatfrontend.com/projects).
+This project is a solution to the [Testimonial Card](https://www.greatfrontend.com/projects/challenges/testimonial-card) challenge on [GreatFrontEnd Projects](https://www.greatfrontend.com/projects).
 
-GreatFrontEnd Projects contains challenges that allows you to practice/learn frontend skills by building real-world projects.
+GreatFrontEnd Projects contains challenges that allow you to practice/learn frontend skills by building real-world projects.
 
 ## Snapshot
 
@@ -19,4 +19,4 @@ GreatFrontEnd Projects contains challenges that allows you to practice/learn fro
 
 - LinkedIn - [Debasish Patnaik](https://www.linkedin.com/in/debasish-patnaik)
 - GreatFrontEnd - [@rakiyun](https://www.greatfrontend.com/projects/u/rakiyun)
-- Github - [@debasish-patnaik](https://github.com/debasish-patnaik)
+- GitHub - [@debasish-patnaik](https://github.com/debasish-patnaik)
