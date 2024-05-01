@@ -6,6 +6,8 @@ This project is a solution to the [Testimonial Card](https://www.greatfrontend.c
 
 GreatFrontEnd Projects contains challenges that allow you to practice/learn frontend skills by building real-world projects.
 
+This project is deployed on GitHub pages and can be accessed by clicking [here](https://debasish-patnaik.github.io/testimonial-card).
+
 ## Snapshot
 
 ![Testimonial Card Snapshot](https://imgur.com/yGyGupK.png)
